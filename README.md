@@ -1,5 +1,6 @@
 # SiteAmplification
 Yan Yang (yanyang@caltech.edu), Spring 2020, Caltech
+
 This work is to calculate site amplification given a 1D model. 
 
 Vertically incident body wave site amplification is computed using propagation matrix method (Aki & Richards, 2002).
