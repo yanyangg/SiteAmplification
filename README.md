@@ -1,7 +1,7 @@
 # SiteAmplification
-Yan Yang (yanyang@caltech.edu), Spring 2020, Caltech
+## Yan Yang (yanyang@caltech.edu), Spring 2020, Caltech
 
-Citation:
+## Citation:
 
 Yang, Yan, James W. Atterholt, Zhichao Shen, Jack B. Muir, Ethan F. Williams, and Zhongwen Zhan. "Sub‐kilometer correlation between near‐surface structure and ground motion measured with distributed acoustic sensing." Geophysical Research Letters 49, no. 1 (2022): e2021GL096503.
 
